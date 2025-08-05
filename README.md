@@ -245,6 +245,11 @@ kubectl apply -f cicd/argo/argo-application.yaml
 
 ---
 
+## Sample Output PDF
+[Download Example PDF](sample_data/output_example.pdf)
+
+---
+
 ## Author
 **Eunki7**  
 - GitHub: [https://github.com/eunki-7](https://github.com/eunki-7)
