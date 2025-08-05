@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.tar
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+.history/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# MLOps artifacts
+mlruns/
+data/
+model_store/
+models/
+output/
+*.ckpt
+*.onnx
+*.pt
+*.pth
+
+# Temporary files
+tmp/
+temp/
+*.tmp
