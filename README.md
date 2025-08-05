@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green.svg)](https://fastapi.tiangolo.com/)  
 [![CI](https://github.com/eunki-7/music2sheet-mlops/actions/workflows/github-actions_test.yml/badge.svg)](https://github.com/eunki-7/music2sheet-mlops/actions)  
+[![Release](https://img.shields.io/github/v/release/eunki-7/music2sheet-mlops)](https://github.com/eunki-7/music2sheet-mlops/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project demonstrates a **production-ready audio-to-sheet music pipeline** enhanced with **MLOps practices**.  
