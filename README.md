@@ -162,6 +162,12 @@ Deploys all microservices and monitoring stack.
 
 ---
 
+### Horizontal Pod Autoscaler (Optional)
+```bash
+kubectl apply -f k8s/hpa.yaml
+
+---
+
 # Cloud Deployment Guide
 
 ## AWS Deployment (EKS)
