@@ -246,7 +246,7 @@ kubectl apply -f cicd/argo/argo-application.yaml
 ---
 
 ## Sample Output PDF
-[Download Example PDF](sample_data/output_example.pdf)
+[Download Example PDF](sample_data/sample1.pdf)
 
 ---
 
