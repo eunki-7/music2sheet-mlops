@@ -151,7 +151,6 @@ Generates: `sample_data/output.pdf`
 ```bash
 pytest tests/
 ```
-
 ---
 
 ## Kubernetes Deployment
@@ -159,8 +158,6 @@ pytest tests/
 kubectl apply -f k8s/
 ```
 Deploys all microservices and monitoring stack.
-
----
 
 ### Horizontal Pod Autoscaler (Optional)
 ```bash
